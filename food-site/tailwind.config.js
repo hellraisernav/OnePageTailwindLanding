@@ -4,7 +4,7 @@ module.exports = {
     theme: {
         extend: {
             backgroundImage: {
-                "cta-bg": "url('../src/bgmarble.webp')"
+                "cta-bg": "url('bgmarble.webp')"
             }
         }
     },
